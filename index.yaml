@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   segway-sys-dest-logscale:
   - apiVersion: v2
+    appVersion: 1.2.7
+    created: "2023-07-21T17:28:16.837994702Z"
+    description: A Helm chart for Kubernetes
+    digest: b2231ee2afcf8f518d6d414429af14f4f415f1b26df3933c72926877e103ccdf
+    name: segway-sys-dest-logscale
+    type: application
+    urls:
+    - https://github.com/seg-way/segway-connect-system-destination-logscale/releases/download/v1.2.7/segway-sys-dest-logscale-1.2.7.tgz
+    version: 1.2.7
+  - apiVersion: v2
     appVersion: 1.2.6
     created: "2023-07-21T17:18:18.394882504Z"
     description: A Helm chart for Kubernetes
@@ -141,4 +151,4 @@ entries:
     urls:
     - https://github.com/seg-way/segway-connect-system-destination-logscale/releases/download/v1.1.15/segway-sys-dest-logscale-1.1.15.tgz
     version: 1.1.15
-generated: "2023-07-21T17:18:18.394144466Z"
+generated: "2023-07-21T17:28:16.837318199Z"
