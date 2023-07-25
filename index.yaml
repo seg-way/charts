@@ -321,6 +321,17 @@ entries:
     urls:
     - https://github.com/seg-way/segway-connect-system-destination-logscale/releases/download/v1.1.15/segway-sys-dest-logscale-1.1.15.tgz
     version: 1.1.15
+  segway-sys-source-box-enterprise:
+  - apiVersion: v2
+    appVersion: 1.1.0
+    created: "2023-07-25T14:55:24.61989944Z"
+    description: A Helm chart for Kubernetes
+    digest: 67f43c34c6bb49e552101f4d9ca81a7c148f63e5a659b76cb13563790e58e068
+    name: segway-sys-source-box-enterprise
+    type: application
+    urls:
+    - https://github.com/seg-way/segway-connect-system-source-box-enterprise/releases/download/v1.1.0/segway-sys-source-box-enterprise-1.1.0.tgz
+    version: 1.1.0
   segway-sys-source-ms-azure-eventhub:
   - apiVersion: v2
     appVersion: 1.3.5
@@ -452,4 +463,4 @@ entries:
     urls:
     - https://github.com/seg-way/segway-connect-system-source-azure-eventhub/releases/download/v1.1.0/segway-sys-source-ms-azure-eventhub-1.1.0.tgz
     version: 1.1.0
-generated: "2023-07-23T17:17:34.481309734Z"
+generated: "2023-07-25T14:55:24.619322538Z"
