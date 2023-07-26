@@ -323,6 +323,16 @@ entries:
     version: 1.1.15
   segway-sys-source-box-enterprise:
   - apiVersion: v2
+    appVersion: 1.1.8
+    created: "2023-07-26T13:02:40.988639749Z"
+    description: A Helm chart for Kubernetes
+    digest: 057b8d0efc2fbaa4b0bbe38df8b151d282692e4a20efed4942f6b02731f40707
+    name: segway-sys-source-box-enterprise
+    type: application
+    urls:
+    - https://github.com/seg-way/segway-connect-system-source-box-enterprise/releases/download/v1.1.8/segway-sys-source-box-enterprise-1.1.8.tgz
+    version: 1.1.8
+  - apiVersion: v2
     appVersion: 1.1.7
     created: "2023-07-26T12:43:10.829467619Z"
     description: A Helm chart for Kubernetes
@@ -533,4 +543,4 @@ entries:
     urls:
     - https://github.com/seg-way/segway-connect-system-source-azure-eventhub/releases/download/v1.1.0/segway-sys-source-ms-azure-eventhub-1.1.0.tgz
     version: 1.1.0
-generated: "2023-07-26T12:43:10.828655423Z"
+generated: "2023-07-26T13:02:40.988046448Z"
