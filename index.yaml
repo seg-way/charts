@@ -634,6 +634,16 @@ entries:
     version: 1.1.0
   segway-sys-source-ms-azure-eventhub:
   - apiVersion: v2
+    appVersion: 2.0.0
+    created: "2023-08-05T17:15:25.244123884Z"
+    description: A Helm chart for Kubernetes
+    digest: 63ebfb4c0776e33c67ce18b03f5b95ee3884ff6d19ff4af7469ee3b372d3a1eb
+    name: segway-sys-source-ms-azure-eventhub
+    type: application
+    urls:
+    - https://github.com/seg-way/segway-connect-system-source-azure-eventhub/releases/download/v2.0.0/segway-sys-source-ms-azure-eventhub-2.0.0.tgz
+    version: 2.0.0
+  - apiVersion: v2
     appVersion: 2.0.0-next-major.3
     created: "2023-08-05T16:47:50.578318565Z"
     description: A Helm chart for Kubernetes
@@ -853,4 +863,4 @@ entries:
     urls:
     - https://github.com/seg-way/segway-connect-system-source-azure-eventhub/releases/download/v1.1.0/segway-sys-source-ms-azure-eventhub-1.1.0.tgz
     version: 1.1.0
-generated: "2023-08-05T17:14:49.270663524Z"
+generated: "2023-08-05T17:15:25.243278771Z"
