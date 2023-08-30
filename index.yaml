@@ -154,6 +154,16 @@ entries:
     version: 3.0.0
   segateway-source-mimecast:
   - apiVersion: v2
+    appVersion: 1.0.4-next-major.1
+    created: "2023-08-30T19:25:55.299158503Z"
+    description: A Helm chart for Kubernetes
+    digest: 56a7cff234f4b2ae1a9ffdd9bfd8fcc3cb7952ad1f1bfa520d7d8100857e5310
+    name: segateway-source-mimecast
+    type: application
+    urls:
+    - https://github.com/segateway/segateway-source-mimecast/releases/download/v1.0.4-next-major.1/segateway-source-mimecast-1.0.4-next-major.1.tgz
+    version: 1.0.4-next-major.1
+  - apiVersion: v2
     appVersion: 1.0.3
     created: "2023-08-29T21:27:30.158953351Z"
     description: A Helm chart for Kubernetes
@@ -1716,4 +1726,4 @@ entries:
     urls:
     - https://github.com/seg-way/segway-connect-system-source-azure-eventhub/releases/download/v1.1.0/segway-sys-source-ms-azure-eventhub-1.1.0.tgz
     version: 1.1.0
-generated: "2023-08-29T21:27:30.158099961Z"
+generated: "2023-08-30T19:25:55.297639783Z"
