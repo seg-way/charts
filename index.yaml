@@ -81,6 +81,17 @@ entries:
     urls:
     - https://github.com/segateway/segateway-destination-logscale/releases/download/v4.0.0/segateway-destination-logscale-4.0.0.tgz
     version: 4.0.0
+  segateway-destination-otlp:
+  - apiVersion: v2
+    appVersion: 1.0.0-next.1
+    created: "2023-10-24T16:07:37.173413366Z"
+    description: A Helm chart for Kubernetes
+    digest: b2453b219a50de1bef937219e26a600d3e5b1da52e959cff3b0387349ffc7c03
+    name: segateway-destination-otlp
+    type: application
+    urls:
+    - https://github.com/segateway/segateway-router/releases/download/v1.0.0-next.1/segateway-destination-otlp-1.0.0-next.1.tgz
+    version: 1.0.0-next.1
   segateway-source-azure-eventhub:
   - apiVersion: v2
     appVersion: 4.3.3
@@ -2036,4 +2047,4 @@ entries:
     urls:
     - https://github.com/seg-way/segway-connect-system-source-azure-eventhub/releases/download/v1.1.0/segway-sys-source-ms-azure-eventhub-1.1.0.tgz
     version: 1.1.0
-generated: "2023-09-28T21:49:53.181126053Z"
+generated: "2023-10-24T16:07:37.172199429Z"
