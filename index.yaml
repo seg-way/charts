@@ -94,6 +94,16 @@ entries:
     version: 1.0.0-next.1
   segateway-router:
   - apiVersion: v2
+    appVersion: 1.0.0-next.5
+    created: "2023-10-26T12:24:17.488949923Z"
+    description: A Helm chart for Kubernetes
+    digest: 381225c060564faf967cb09613fb3d31f3f8b4e2d3b3478318841eccd170a8c9
+    name: segateway-router
+    type: application
+    urls:
+    - https://github.com/segateway/segateway-router/releases/download/v1.0.0-next.5/segateway-router-1.0.0-next.5.tgz
+    version: 1.0.0-next.5
+  - apiVersion: v2
     appVersion: 1.0.0-next.4
     created: "2023-10-24T19:53:59.167388125Z"
     description: A Helm chart for Kubernetes
@@ -2078,4 +2088,4 @@ entries:
     urls:
     - https://github.com/seg-way/segway-connect-system-source-azure-eventhub/releases/download/v1.1.0/segway-sys-source-ms-azure-eventhub-1.1.0.tgz
     version: 1.1.0
-generated: "2023-10-24T19:53:59.166665431Z"
+generated: "2023-10-26T12:24:17.488124709Z"
