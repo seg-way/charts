@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   segateway-destination-logscale:
   - apiVersion: v2
+    appVersion: 5.0.0-next.6
+    created: "2023-10-30T16:42:14.440124815Z"
+    description: A Helm chart for Kubernetes
+    digest: 99c23d9b6cb2e56dbbfbbc5bdee55eb4e2216fee481f11815fe635453bd76941
+    name: segateway-destination-logscale
+    type: application
+    urls:
+    - https://github.com/segateway/segateway-destination-logscale/releases/download/v5.0.0-next.6/segateway-destination-logscale-5.0.0-next.6.tgz
+    version: 5.0.0-next.6
+  - apiVersion: v2
     appVersion: 5.0.0-next.5
     created: "2023-10-30T16:07:03.914346459Z"
     description: A Helm chart for Kubernetes
@@ -2178,4 +2188,4 @@ entries:
     urls:
     - https://github.com/seg-way/segway-connect-system-source-azure-eventhub/releases/download/v1.1.0/segway-sys-source-ms-azure-eventhub-1.1.0.tgz
     version: 1.1.0
-generated: "2023-10-30T16:07:03.913597948Z"
+generated: "2023-10-30T16:42:14.439144957Z"
